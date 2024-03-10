@@ -1,1 +1,2 @@
 # about-card
+This HTML code represents a section of a website's "About" page. It includes an image and text describing the company's passion for delivering growth services. The text highlights the company's goals and values, including providing impactful recommendations and building strong partnerships. It also features statistics about the company's performance, such as the number of happy users, issues solved, and good reviews received. This content aims to convey the company's mission, values, and achievements to visitors.
